@@ -39,7 +39,7 @@ function ChartCoponent({ sortedTransactions }) {
 
   const config = {
     data: data,
-    width: 500,
+    width: 550,
     autoFit: true,
     xField: "date",
     yField: "amount",
@@ -47,7 +47,7 @@ function ChartCoponent({ sortedTransactions }) {
 
   const spendingConfig = {
     data: newSpending,
-    width: 500,
+    width: 450,
     angleField: "amount",
     colorField: "tag",
   };

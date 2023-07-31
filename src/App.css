@@ -15,3 +15,14 @@
     border-radius: 0.5rem;
     box-shadow: var(--shadow);
 }
+/* @media screen and (max-width: 400px) {
+ .chart-wrapper{
+    height: auto;
+    width: 50%;
+    justify-content: space-between;
+    padding: 0.2rem;
+    margin: 0.05rem;
+    border-radius: 0.5rem;
+    box-shadow: var(--shadow);
+}
+} */

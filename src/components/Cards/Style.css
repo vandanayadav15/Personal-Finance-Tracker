@@ -20,3 +20,13 @@
 .my-card p{
     margin: 0;
 }
+
+/* @media screen and (max-width: 600px) {
+  .my-card{
+    box-shadow: var(--shadow);
+    margin: 0.2rem;
+    border-radius: 0.02rem;
+    min-width: 300px;
+    flex: 1;
+}
+} */
